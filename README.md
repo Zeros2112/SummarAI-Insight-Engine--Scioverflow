@@ -1,5 +1,4 @@
 # SummarAI Insight Engine @Scioverflow
-# Summize - OpenAI GPT-4 Article Summarizer
 
 ## Overview
 
