@@ -1,5 +1,6 @@
 // Importing image assets for icons and loader
 import { copy, linkIcon, loader, tick, searchicon2 } from "../assets";
+import React, { useState, useEffect } from "react";
 
 // Importing the custom hook for fetching article summaries from the service
 import { useLazyGetSummaryQuery } from "../services/article";
