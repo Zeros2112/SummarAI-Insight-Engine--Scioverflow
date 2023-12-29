@@ -13,7 +13,7 @@ const Hero = () => {
         {/* GitHub button */}
         <button
           type="button"
-          onClick={() => window.open("")}
+          onClick={() => window.open("https://github.com/Zeros2112/SummarAI-Insight-Engine--Scioverflow")}
           className="black_btn"
         >
           GitHub
