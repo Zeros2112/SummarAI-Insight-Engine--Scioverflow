@@ -4,6 +4,10 @@
 
 Summize is an open-source article summarizer powered by OpenAI GPT-4. It allows users to input article links and receive concise summaries for easy reading.
 
+## Demo 
+
+[Google drive](https://drive.google.com/drive/folders/1gOlli-SA_D_4gIlPPO1Ug51PwF0Te4kW?usp=sharing)
+
 ## Table of Contents
 
 - [Features](#features)
